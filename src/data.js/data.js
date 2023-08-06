@@ -2,7 +2,7 @@ export const data = [
     {
         id: 1,
         brand: 'Bulgari',
-        price: 20000,
+        price: 17000,
         model: "Octo finissimo",
         color: "green",
         isOnSale: true,
@@ -20,7 +20,7 @@ export const data = [
     {
         id: 3,
         brand: "Bulgari",
-        price: 12000,
+        price: 10200,
         model: "Octo finissimo",
         color: "blue",
         isOnSale: true,
@@ -29,7 +29,7 @@ export const data = [
     {
         id: 4,
         brand: "Glashutte",
-        price: 12000,
+        price: 14000,
         model: "Seventies",
         color: "orange",
         isOnSale: false,
@@ -38,7 +38,7 @@ export const data = [
     {
         id: 5,
         brand: "Glashutte",
-        price: 14000,
+        price: 11900,
         model: "Sixties Chrono",
         color: "blue",
         isOnSale: true,
@@ -80,10 +80,10 @@ export const data = [
     }, {
         id: 10,
         brand: "Blancpain",
-        price: 27000,
+        price: 22950,
         model: "Fifty Fathoms",
         color: "blue",
-        isOnSale: false,
+        isOnSale: true,
         img: "https://laurent-barrier.com/wp-content/uploads/2021/07/Blancpain-500036S40O52A-420x420.jpg"
     }, {
         id: 11,
