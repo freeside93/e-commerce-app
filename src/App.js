@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Main from "./components/Main"
+import Footer from './components/Footer'
 import { data } from "./data.js/data";
 
 function App() {
@@ -112,6 +113,7 @@ function App() {
       filteredData={filteredData} shownData={shownData} itemCount={itemCount} increaseCount={increaseCount} isMoreData={isMoreData}
       setSorting={setSorting} sorting={sorting}
        />
+       <Footer />
     </div>
   );
 }
