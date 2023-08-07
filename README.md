@@ -1,6 +1,6 @@
 # Project Summary
 
-PLP resemblind a page in an ecommerce store. The goal was to replicate Bucherer`s website page as much as possible.
+PLP resembling a page in an ecommerce store. The goal was to replicate Bucherer`s website page as much as possible.
 
 ## Technologies
 React.js, tailwind css
