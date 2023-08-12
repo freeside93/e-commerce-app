@@ -100,7 +100,7 @@ function App() {
     } else {
       setIsMoreData(true)
     }
-  }, [filters])
+  }, [filters, filteredData.length , itemCount])
 
 
 
